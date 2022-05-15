@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.default-font {
+ 
+  font-size: 16px;
+  font-family: mallory, sans-serif !important;
+  font-weight: 500;
+  line-height: 1.235;
+}
+
+.wallet {
+    font-size: 14px;
+    font-family: mallory, sans-serif;
+    font-weight: 800;
+    line-height: 1.5;
+    margin: 0px;
+}
+.address{
+  color: rgb(128, 128, 128);
+  font-size: 12px;
+  font-family: mallory, sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 0px;
+}
+.box-margin-25 {
+  margin : 0 25%;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: mallory, sans-serif !important;
+}
